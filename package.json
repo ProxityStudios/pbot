@@ -4,8 +4,7 @@
   "description": "pbot",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
-  "module": "build/module/index.js",
-  "repository": "https://github.com/Proxity-S/Pbot",
+  "repository": "https://github.com/ProxityStudios/Pbot",
   "maintainers": [
     "CrawlTheDev"
   ],
