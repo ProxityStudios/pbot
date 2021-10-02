@@ -1,5 +1,5 @@
 {
-  "name": "pbot",
+  "name": "@proxitystudios/pbot",
   "version": "1.0.1",
   "description": "pbot",
   "main": "build/main/index.js",
